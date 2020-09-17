@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chauhan</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihiteshchauhan" alt="ihiteshchauhan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihiteshchauhan" alt="ihiteshchauhan" /> 
+![Profile Visits](https://komarev.com/ghpvc/?username=iamsomraj&style=flat-square&label=Profile+Visits&color=1DA1F2)</p>
 
 - 🔭 I’m currently working on **a 2D game**
 
