@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hitesh Chauhan</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihiteshchauhan" alt="ihiteshchauhan" /> 
-![Profile Visits](https://komarev.com/ghpvc/?username=ihiteshchauhan&style=flat-square&label=Profile+Visits&color=1DA1F2)</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihiteshchauhan" alt="ihiteshchauhan" /> </p>
+![Profile Visits](https://komarev.com/ghpvc/?username=ihiteshchauhan&style=flat-square&label=Profile+Visits&color=1DA1F2)
 
 - 🔭 I’m currently working on **a 2D game**
 
