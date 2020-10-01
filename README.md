@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ihiteshchauhan" alt="ihiteshchauhan" /> </p>
 
-- 🔭 I’m currently working on **a 2D game**
-
 - 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ihiteshchauhan](https://github.com/ihiteshchauhan)
